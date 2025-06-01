@@ -12,5 +12,6 @@ scikit-learn
 dill
 pickle
 pyaml
+mlflow
 
 ##-e .
