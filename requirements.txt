@@ -13,5 +13,6 @@ dill
 pickle
 pyaml
 mlflow
+dagshub
 
 ##-e .
