@@ -9,7 +9,6 @@ pymongo
 certifi
 scikit-learn
 dill
-pickle5
 pyaml
 mlflow
 dagshub
